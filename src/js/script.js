@@ -6,7 +6,7 @@ var total = 0;
 function criarBalao(){
 	
 	let balao = document.createElement("img");
-	balao.setAttribute("src", "src/img/balloon.png");
+	balao.setAttribute("src", "img/balloon.png");
 	
 	let x = Math.floor(Math.random() * 1260);
 	let y = Math.floor(Math.random() * 600);
