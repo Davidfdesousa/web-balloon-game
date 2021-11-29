@@ -1,0 +1,10 @@
+img{
+  margin-top:50px;
+  max-width: 200px;
+  position: absolute;
+}
+
+#total {
+  color:#ff0000;
+  position: fixed;
+}
